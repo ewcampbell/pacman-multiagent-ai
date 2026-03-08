@@ -109,11 +109,11 @@ mode-switching layer. By default it plays defense, but switches to offense when:
 
 ---
 
-### Demo
+### Example Recording
 
 | File | Description |
 |---|---|
-| `demo.gif` | Gameplay recordings showing agents in action |
+| `demo.gif` | Gameplay recording showing agents in action |
 
 ![Multi-agent gameplay](file-archive/demo.gif)
 
