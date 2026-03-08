@@ -130,7 +130,7 @@ mode-switching layer. By default it plays defense, but switches to offense when:
 
 ## Team
 
-Built in collaboration with a partner for CSE 140 at UC Santa Cruz.
-My primary contributions were the defensive agent architecture, A\* pathfinding
-implementation, training infrastructure and OCI deployment, and performance
-tracking and visualization.
+Built collaboratively for CSE 140 Artificial Intelligence at UC Santa Cruz.
+Adam Xu — offensive agent, training script and pipeline, OCI cloud training setup, hybrid architecture
+Elias Campbell — defensive agent, positioning and zoning logic, cross-training loop, hybrid architecture
+Jarod Cardenas — repo management, merge coordination, autograder submissions, early defensive agent work
